@@ -32,4 +32,11 @@ organização e estruturação dos dados;
 3. Escrever os dados limpos e tratados em uma tabela relacional em SGBD de sua
 escolha.
 
+Etapas:
+1 - Crawler Twitter.
 
+Criar conta no twitter. 
+https://twitter.com/
+
+Criar conta developer.
+https://developer.twitter.com/en
