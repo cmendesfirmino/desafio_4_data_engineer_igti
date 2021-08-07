@@ -12,7 +12,7 @@ organização e estruturação dos dados;
 escolha.
 
 Pre requisitos
--Conta desenvolvedor no Twitter, para executar a primeira parte, e está em get_tweets.py
--Docker e Docker-Compose instalados, assim basta entrar na pasta "airflow-docker" e rodar o docker-compose dentro do diretório.
+ - Conta desenvolvedor no Twitter, para executar a primeira parte, e está em get_tweets.py
+ - Docker e Docker-Compose instalados, assim basta entrar na pasta "airflow-docker" e rodar o docker-compose dentro do diretório.
 
 Dessa forma será possível rodar o Apache Airflow
